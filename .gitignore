@@ -1,0 +1,9 @@
+# Apresentações originais que serviram de fonte para o conteúdo.
+# Ficam fora do repositório porque contêm fotos pessoais/familiares
+# embutidas nos slides. Mantenha-as apenas localmente.
+assets/src/
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
