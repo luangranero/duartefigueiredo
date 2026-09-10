@@ -18,7 +18,7 @@ assets/src/         os .pptx originais que serviram de conteúdo
 
 Todo o texto veio das duas apresentações em `assets/src/`. Dados de contato usados:
 
-- WhatsApp: +55 (11) 9.4159-4174 → `wa.me/5511941594174`
+- WhatsApp: +55 (11) 3105-4414 → `wa.me/551131054414`
 - E-mail: adv.juridicobr@gmail.com
 - Instagram: @duartefigueiredo.previdencia
 - Endereço: Rua Tabatinguera, nº 140, sala 610 – 6º andar, Sé – São Paulo/SP

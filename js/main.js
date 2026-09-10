@@ -197,7 +197,7 @@
         'Assunto: ' + (d.get('assunto') || '') + '\n' +
         'Resumo: ' + (d.get('msg') || 'nao informado');
 
-      window.open('https://wa.me/5511941594174?text=' + encodeURIComponent(texto), '_blank', 'noopener');
+      window.open('https://wa.me/551131054414?text=' + encodeURIComponent(texto), '_blank', 'noopener');
     });
   }
 
