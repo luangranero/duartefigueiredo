@@ -42,7 +42,7 @@ e pelo Provimento nº 205/2021 — não remova.
    como placeholder. Substitua pelo retrato profissional real (o `<img>` está marcado com
    um comentário `TODO` em `index.html`). Enquanto for placeholder, não publique o site.
 2. **Demais fotos** — as imagens de apoio (`hero-justice`, `maos-idoso`, `consulta`,
-   `tribunal`, `livros`, `calculo`, `handshake`, `exterior`) são do Unsplash (uso livre).
+   `tribunal`, `livros`, `calculo`, `exterior`) são do Unsplash (uso livre).
    Podem ser trocadas por fotos do escritório mantendo os mesmos nomes de arquivo.
 3. **Logo** — `assets/img/logo.jpg` foi extraído do PPT. Se existir uma versão em PNG com
    fundo transparente ou em SVG, use-a e remova o `background:#fff` do `.brand img` no CSS.
