@@ -633,8 +633,22 @@ p{margin:0}
   .steps,.grid3,.timeline,.pillars{grid-template-columns:1fr}
   .hero-facts{gap:22px}
   .contact-list li{grid-template-columns:1fr;gap:4px}
-  .errors li{padding-left:0;padding-top:40px}
-  .errors .num{top:0}
+  .errors{gap:30px}
+  .errors li{padding-left:0;padding-top:0}
+  /* no mobile o numero sai do absoluto e vira bloco acima do titulo */
+  .errors .num{
+    position:static;display:block;
+    font-size:1.9rem;line-height:1;margin-bottom:10px;
+  }
+  .errors h3{font-size:1.2rem;margin-bottom:6px}
+  .errors p{font-size:.95rem}
+
+  .pull{
+    font-size:1.15rem;line-height:1.5;
+    padding-block:28px;margin-top:48px;
+  }
+  /* respiro para o botao flutuante nao cobrir o fim da secao */
+  #urgencia{padding-bottom:110px}
   .wa-float{right:16px;bottom:16px}
   .brand-txt{padding-left:11px}
   .brand-txt strong{font-size:.82rem;letter-spacing:.08em}
