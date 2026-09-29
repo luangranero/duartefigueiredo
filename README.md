@@ -38,14 +38,11 @@ e pelo Provimento nº 205/2021 — não remova.
 
 ## O que trocar antes de publicar
 
-1. **Foto da Jéssica** — `assets/img/advogada.jpg` é uma foto de banco de imagens usada
-   como placeholder. Substitua pelo retrato profissional real (o `<img>` está marcado com
-   um comentário `TODO` em `index.html`). Enquanto for placeholder, não publique o site.
-2. **Demais fotos** — as imagens de apoio (`hero-justice`, `maos-idoso`, `consulta`,
+1. **Demais fotos** — as imagens de apoio (`hero-justice`, `maos-idoso`, `consulta`,
    `livros`, `calculo`, `exterior`) são do Unsplash (uso livre).
    Podem ser trocadas por fotos do escritório mantendo os mesmos nomes de arquivo.
-3. **Logo** — `assets/img/logo.jpg` foi extraído do PPT. Se existir uma versão em PNG com
+2. **Logo** — `assets/img/logo.jpg` foi extraído do PPT. Se existir uma versão em PNG com
    fundo transparente ou em SVG, use-a e remova o `background:#fff` do `.brand img` no CSS.
-4. **Formulário** — hoje ele monta a mensagem e abre o WhatsApp; nenhum dado é armazenado.
+3. **Formulário** — hoje ele monta a mensagem e abre o WhatsApp; nenhum dado é armazenado.
    Se quiser recebimento por e-mail, plugue um serviço como Formspree no `submit` de
    `js/main.js`.
